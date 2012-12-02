@@ -1,0 +1,4 @@
+pas de lien diaporama si mode document
+ecrire hook de diporama
+enlever config
+mettre icone (http://brsev.deviantart.com/)
